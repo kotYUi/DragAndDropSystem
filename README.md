@@ -1,5 +1,4 @@
 Unity Drag and Drop Card System
-![Demo Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5xZ2V6d2V5eGx6dWl5ZzB0b2VqZzJ6eGZ1Z2JqZzB0b2VqZzJ6eGZ1Z2JqZzB0b2VqZzJ6eGZ1Z2JqZzB0b2VqZw/giphy.gif)
 
 Project Description
 A simple and convenient Drag and Drop mechanism for maps (or other objects) in Unity. The system allows you to:
