@@ -37,3 +37,5 @@ Add support for UI Canvas (via RectTransform)
 Implement events (OnDragStart, OnDropSuccess, OnReturn)
 
 Optimize for multi-touch control
+
+https://github.com/user-attachments/assets/9f3ca464-002a-48fd-83f7-7ea3ca3749d6
